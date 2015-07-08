@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">It\'sCold?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string-array name="cities_array">
+        <item>Selecione uma cidade</item>
+        <item>San Francisco</item>
+        <item>Bangalore</item>
+        <item>Boston</item>
+        <item>Geneva</item>
+        <item>Rio de Janeiro</item>
+        <item>Shanghai</item>
+        <item>Singapore</item>
+    </string-array>
+
+</resources>
